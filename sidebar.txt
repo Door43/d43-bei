@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bei:home|Door43 (bei)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bei|d43-bei repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bei/archive/master.zip|d43-bei.zip]]
+
+**Recent Changes**
+{{changes>ns = bei}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bei|Ethnologue data]]
+
